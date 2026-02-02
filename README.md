@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Data Engineering Project Portfolio
 
 > Welcome to my data engineering projects repository! Here you will find a collection of data engineering projects 
@@ -90,3 +91,6 @@ Map-Reduce. The course provides an introduction to the concepts of big data and 
 # End-to-End-Data-Engineering-Solutions
 A collection of practical data engineering projects demonstrating ETL pipelines, data transformation, and cloud-based workflows with Python and SQL.
 >>>>>>> b6a1985125726d7a887ba33c3ba5d21eb6687708
+=======
+# GCP-Data-Engineering-Zoomcamp-Project1
+>>>>>>> 001967f8b4793d184b89d7b832a929e776cb66d3
